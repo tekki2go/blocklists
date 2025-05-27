@@ -1,1 +1,2 @@
 ||advisor.ngxcld.com^
+||bing.com^
